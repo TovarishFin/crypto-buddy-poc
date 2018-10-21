@@ -19,6 +19,7 @@ The script tests:
 
 ## Choosing a provider
 You can choose whatever provider you want by setting it in .env as `PROVIDER`
+
 network | url | example
 --- | --- | --- 
 ganache | `http://localhost:8545` | `PROVIDER="http://localhost:8545"`
