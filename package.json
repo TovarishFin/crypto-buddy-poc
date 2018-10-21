@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start:blockchain": "yarn ganache-cli --account='0xa4fc264e3a29022eeba3cb83b4ea0d58d019481ec5321e09786a95993c21a5c3, 5000000000000000000'"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "dot-env": "^0.0.1",
+    "dotenv": "^6.1.0",
+    "ganache-cli": "^6.1.8",
+    "web3": "^1.0.0-beta.36"
+  }
+}
